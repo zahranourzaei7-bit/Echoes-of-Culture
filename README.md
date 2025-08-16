@@ -2,6 +2,6 @@
 
 This collection features 20 Korean proverbs with Persian equivalents, revealing a shared language of wisdom across cultures.  
 
-📖 [Download the book here](./Echoes%20of%20Culture.pdf)
+📖 [Download the book here](PASTE_YOUR_COPIED_LINK_HERE)
 
 Author: Zahra Nourzaei
